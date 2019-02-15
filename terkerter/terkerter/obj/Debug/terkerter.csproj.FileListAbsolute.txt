@@ -1,0 +1,8 @@
+D:\diak\Bohus Tamás\terkerter\terkerter\bin\Debug\terkerter.exe.config
+D:\diak\Bohus Tamás\terkerter\terkerter\bin\Debug\terkerter.exe
+D:\diak\Bohus Tamás\terkerter\terkerter\bin\Debug\terkerter.pdb
+D:\diak\Bohus Tamás\terkerter\terkerter\obj\Debug\terkerter.csprojResolveAssemblyReference.cache
+D:\diak\Bohus Tamás\terkerter\terkerter\obj\Debug\terkerter.MainForm.resources
+D:\diak\Bohus Tamás\terkerter\terkerter\obj\Debug\terkerter.csproj.GenerateResource.Cache
+D:\diak\Bohus Tamás\terkerter\terkerter\obj\Debug\terkerter.exe
+D:\diak\Bohus Tamás\terkerter\terkerter\obj\Debug\terkerter.pdb

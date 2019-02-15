@@ -1,0 +1,8 @@
+D:\diak\Bohus Tamás\generalas\generalas\bin\Debug\generalas.exe.config
+D:\diak\Bohus Tamás\generalas\generalas\bin\Debug\generalas.exe
+D:\diak\Bohus Tamás\generalas\generalas\bin\Debug\generalas.pdb
+D:\diak\Bohus Tamás\generalas\generalas\obj\Debug\generalas.csprojResolveAssemblyReference.cache
+D:\diak\Bohus Tamás\generalas\generalas\obj\Debug\generalas.MainForm.resources
+D:\diak\Bohus Tamás\generalas\generalas\obj\Debug\generalas.csproj.GenerateResource.Cache
+D:\diak\Bohus Tamás\generalas\generalas\obj\Debug\generalas.exe
+D:\diak\Bohus Tamás\generalas\generalas\obj\Debug\generalas.pdb
