@@ -1,0 +1,8 @@
+D:\diak\Bohus Tamás\gomb\gomb\obj\Debug\gomb.csprojResolveAssemblyReference.cache
+D:\diak\Bohus Tamás\gomb\gomb\obj\Debug\gomb.MainForm.resources
+D:\diak\Bohus Tamás\gomb\gomb\obj\Debug\gomb.csproj.GenerateResource.Cache
+D:\diak\Bohus Tamás\gomb\gomb\bin\Debug\gomb.exe.config
+D:\diak\Bohus Tamás\gomb\gomb\bin\Debug\gomb.exe
+D:\diak\Bohus Tamás\gomb\gomb\bin\Debug\gomb.pdb
+D:\diak\Bohus Tamás\gomb\gomb\obj\Debug\gomb.exe
+D:\diak\Bohus Tamás\gomb\gomb\obj\Debug\gomb.pdb
