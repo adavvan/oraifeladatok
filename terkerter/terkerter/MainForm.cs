@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Created by SharpDevelop.
  * User: Diak
  * Date: 2019. 02. 15.
@@ -30,8 +30,8 @@ namespace terkerter
 			//
 		}
 		
-		int ker;
-		int ter;
+		float ker;
+		float ter;
 		
 		void Button1Click(object sender, EventArgs e)
 		{
@@ -40,10 +40,11 @@ namespace terkerter
 			}
 			else
 			{
-				int a = int.Parse(a_box.Text);
-				int b = int.Parse(b_box.Text);
+				float a = float.Parse(a_box.Text);
+				float b = float.Parse(b_box.Text);
 				ter = a*b;
 				erdmeny_box.Text = ter.ToString();
+				terulet.Enabled = false;
 			}
 		}
 		void KeruletClick(object sender, EventArgs e)
@@ -53,10 +54,11 @@ namespace terkerter
 			}
 			else
 			{
-				int a = int.Parse(a_box.Text);
-				int b = int.Parse(b_box.Text);
+				float a = float.Parse(a_box.Text);
+				float b = float.Parse(b_box.Text);
 				ker = (a+b)*2;
 				erdmeny_box.Text = ker.ToString();
+				kerulet.Enabled = false;
 			}
 		}
 		void ResetClick(object sender, EventArgs e)
@@ -64,6 +66,8 @@ namespace terkerter
 			a_box.Text = "";
 			b_box.Text = "";
 			erdmeny_box.Text = "";
+			kerulet.Enabled = true;
+			terulet.Enabled = true;
 		}
 		void KilepesClick(object sender, EventArgs e)
 		{
