@@ -1,0 +1,8 @@
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\bin\Debug\hatterszinvaltoztato.exe.config
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\bin\Debug\hatterszinvaltoztato.exe
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\bin\Debug\hatterszinvaltoztato.pdb
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\obj\Debug\hatterszinvaltoztato.csprojResolveAssemblyReference.cache
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\obj\Debug\hatterszinvaltoztato.ablak.resources
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\obj\Debug\hatterszinvaltoztato.csproj.GenerateResource.Cache
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\obj\Debug\hatterszinvaltoztato.exe
+D:\diak\Bohus Tamás\hatterszinvaltoztato\hatterszinvaltoztato\obj\Debug\hatterszinvaltoztato.pdb
