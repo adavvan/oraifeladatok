@@ -1,0 +1,8 @@
+D:\diak\Bohus Tamás\picturebox\picturebox\bin\Debug\picturebox.exe.config
+D:\diak\Bohus Tamás\picturebox\picturebox\bin\Debug\picturebox.exe
+D:\diak\Bohus Tamás\picturebox\picturebox\bin\Debug\picturebox.pdb
+D:\diak\Bohus Tamás\picturebox\picturebox\obj\Debug\picturebox.csprojResolveAssemblyReference.cache
+D:\diak\Bohus Tamás\picturebox\picturebox\obj\Debug\picturebox.MainForm.resources
+D:\diak\Bohus Tamás\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.Cache
+D:\diak\Bohus Tamás\picturebox\picturebox\obj\Debug\picturebox.exe
+D:\diak\Bohus Tamás\picturebox\picturebox\obj\Debug\picturebox.pdb
