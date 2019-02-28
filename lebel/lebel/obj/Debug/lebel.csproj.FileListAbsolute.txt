@@ -1,0 +1,8 @@
+D:\diak\Bohus Tamás\lebel\lebel\bin\Debug\lebel.exe.config
+D:\diak\Bohus Tamás\lebel\lebel\bin\Debug\lebel.exe
+D:\diak\Bohus Tamás\lebel\lebel\bin\Debug\lebel.pdb
+D:\diak\Bohus Tamás\lebel\lebel\obj\Debug\lebel.csprojResolveAssemblyReference.cache
+D:\diak\Bohus Tamás\lebel\lebel\obj\Debug\lebel.MainForm.resources
+D:\diak\Bohus Tamás\lebel\lebel\obj\Debug\lebel.csproj.GenerateResource.Cache
+D:\diak\Bohus Tamás\lebel\lebel\obj\Debug\lebel.exe
+D:\diak\Bohus Tamás\lebel\lebel\obj\Debug\lebel.pdb
